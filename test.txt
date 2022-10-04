@@ -3,4 +3,8 @@ This is the second line
 This is the third line
 This is the four line
 This is the five line
+<<<<<<< HEAD
 This is very simple
+=======
+This is very SIMPLE
+>>>>>>> ebffe78 (new branch fearture1 do the revise this time)
